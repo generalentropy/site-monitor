@@ -1,3 +1,3 @@
 module site-monitor
 
-go 1.24
+go 1.23
